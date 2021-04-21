@@ -1,4 +1,4 @@
-21507
+21509
 56C:\Users\Olivia\Desktop\474\react-parcel-ex\package.json132634432833893433 0
 100C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\finalhandler\node_modules\debug\src\node.js131505607000000000 0
 61C:\Users\Olivia\Desktop\474\react-parcel-ex\package-lock.json132630840996340279 0
@@ -42,7 +42,7 @@
 87C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\@parcel\core\src\Validation.js121436361000000000 0
 89C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\internals\create-html.js121436361000000000 0
 100C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\stylehacks\node_modules\postcss\lib\list.js121436361000000000 0
-48C:\Users\Olivia\Desktop\474\react-parcel-ex\dist132634433580147199 1
+48C:\Users\Olivia\Desktop\474\react-parcel-ex\dist132634434740379208 1
 124C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\postcss-minify-params\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
 85C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\whatwg-url\lib\public-api.js121436361000000000 0
 91C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\es\array\virtual\reduce.js121436361000000000 0
@@ -119,7 +119,7 @@
 100C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\postcss-ordered-values\dist\lib\addSpace.js121436361000000000 0
 115C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\regenerate-unicode-properties\Script\Caucasian_Albanian.js121436361000000000 0
 96C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\htmlparser2\node_modules\dom-serializer132630840794250055 1
-48C:\Users\Olivia\Desktop\474\react-parcel-ex\docs132634429472345718 1
+48C:\Users\Olivia\Desktop\474\react-parcel-ex\docs132634433580147199 1
 119C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\postcss-merge-longhand\node_modules\color-convert\package.json132630840678767279 0
 102C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\es\typed-array\uint8-clamped-array.js121436361000000000 0
 87C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\timers-browserify\package.json132630840513938256 0
@@ -259,7 +259,7 @@
 62C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\acorn132630840860064624 1
 98C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\features\function\has-instance.js121436361000000000 0
 91C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\es\object\is-extensible.js121436361000000000 0
-56C:\Users\Olivia\Desktop\474\react-parcel-ex\src\index.js132634422221807037 0
+56C:\Users\Olivia\Desktop\474\react-parcel-ex\src\index.js132634434447420818 0
 81C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\node-forge\lib\sha256.js121436361000000000 0
 64C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\mime-db132630840758383294 1
 106C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\css-declaration-sorter\node_modules\color-convert132630840837497000 1
@@ -3045,6 +3045,7 @@
 107C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\postcss-reduce-initial\node_modules\chalk\index.js121436361000000000 0
 76C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\yallist\iterator.js121436361000000000 0
 114C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\postcss-minify-gradients\node_modules\postcss\lib\root.js121436361000000000 0
+66C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.3fafb3e2.js132634434740279468 0
 72C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\iferr\README.md132630839305380981 0
 104C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\@babel\plugin-transform-parameters\lib\index.js121012626000000000 0
 112C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\@babel\plugin-transform-react-display-name\lib\index.js121012626000000000 0
@@ -15604,7 +15605,7 @@
 85C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\es-abstract\5\ToPrimitive.js121436361000000000 0
 101C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\cssstyle\lib\properties\borderBottomColor.js121436361000000000 0
 94C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\es-abstract\5\ToPropertyDescriptor.js121436361000000000 0
-59C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.html132634433579418672 0
+59C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.html132634434739976728 0
 82C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\es-abstract\5\ToUint16.js121436361000000000 0
 95C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\core-js\features\string\virtual\sub.js121436361000000000 0
 82C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\es-abstract\5\ToUint32.js121436361000000000 0
@@ -21350,11 +21351,12 @@
 67C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\.bin\uncss132630840928083083 0
 66C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\.bin\uuid132630840926347749 0
 71C:\Users\Olivia\Desktop\474\react-parcel-ex\node_modules\.bin\which.ps1132630840926577101 0
-66C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.f60f481b.js132634429472245963 0
-70C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.f60f481b.js.map132634429472325735 0
-59C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.html132634429472206391 0
-66C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.f60f481b.js132634433579965167 0
-70C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.f60f481b.js.map132634433580127279 0
+66C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.f60f481b.js132634433579965167 0
+70C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.f60f481b.js.map132634433580127279 0
+59C:\Users\Olivia\Desktop\474\react-parcel-ex\docs\index.html132634433579418672 0
+70C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.3fafb3e2.js.map132634434740359275 0
+66C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.f60f481b.js132634434578116529 0
+70C:\Users\Olivia\Desktop\474\react-parcel-ex\dist\index.f60f481b.js.map132634434578216294 0
 58C:\Users\Olivia\Desktop\474\react-parcel-ex\21Info474\.git132633521236089379 1
 70C:\Users\Olivia\Desktop\474\react-parcel-ex\21Info474\.git\description132633521213311064 0
 63C:\Users\Olivia\Desktop\474\react-parcel-ex\21Info474\.git\HEAD132633521215913431 0
