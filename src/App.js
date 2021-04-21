@@ -4,7 +4,11 @@ import React from "react";
 const vh = 500;
 const vw = 500;
 const App = () => {
-return <svg style={{border: "1px solid pink", width:vw, height:vh}}>Hello World from React
+return <p>ok please for the love of ... </p>
+
+};
+
+/*<svg style={{border: "1px solid pink", width:vw, height:vh}}>Hello World from React
 
 <circle cx={vh} cy={vw} r="5" />
 <rect fill="rgb(230,230,230)" width={10} height={10}x={200} y={100} />
@@ -16,8 +20,6 @@ return <svg style={{border: "1px solid pink", width:vw, height:vh}}>Hello World 
 
 <p> April 13 + 7</p>
 
-</svg>
-
-};
+</svg>*/
 
 export default App;
